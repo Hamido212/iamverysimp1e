@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Tue Nhan
 #### Python Coder and Programmer
+<ing src="https://github.com/iamverysimp1e/iamverysimp1e/blob/master/giphy (5).gif" width="256" />
+
 I'm Nguyễn Tuệ Nhân from Viet Nam, still a high school student who really enjoy learning programming languages. I would like to become a full stack developer in the future when i grown up.
 
 Skills: Python / Fixing computers problem
