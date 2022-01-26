@@ -8,3 +8,4 @@
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: Vietnamese who new to code
 - ☁ My Dream : Become Full Stack Developer
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamverysimp1e&theme=dark&show_icons=true)
