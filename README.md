@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tue Nhan
 #### Python Coder and Programmer
-I'm Nguyễn Tuệ Nhân from Viet Nam, still a high school student who really enjoy learning programming languages. I would like to become a full stack developer in the future when i grown up
+I'm Nguyễn Tuệ Nhân from Viet Nam, still a high school student who really enjoy learning programming languages. I would like to become a full stack developer in the future when i grown up.
 
 Skills: Python / Fixing computers problem
 
