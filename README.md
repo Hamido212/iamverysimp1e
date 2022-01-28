@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Tue Nhan
+# Hi there 👋, my name is Tue Nhan
 ### Junior Python Coder and Programmer
 <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy%20(5).gif" width="256" />  <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy1.gif" width="500" />
 
@@ -23,14 +23,14 @@ I'm Nguyễn Tuệ Nhân from Viet Nam, still a high school student who really e
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Sites that I'm using for learning programming languages:
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+
 ### Github Stats : 
 <img allign="left" src="https://github-readme-stats.vercel.app/api?username=iamverysimp1e&theme=blue-green&show_icons=true" />
-
-### Browser i used the most:
-
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 ### Social Media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/simp1e)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/iamverysimp1e)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Mr_S1mpleman)  
