@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Tue Nhan
 ### Junior Python Coder and Programmer
-<img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy%20(5).gif" width="256" />  <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy1.gif" width="500" />
+<img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy%20(5).gif" width="256" />  <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giph2y.gif" width='450' />
 
 ## Basic info about me:
 
