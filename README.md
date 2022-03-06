@@ -8,6 +8,7 @@ I'm Nguyễn Tuệ Nhân from Viet Nam, still a high school student who really e
 
 - ☁  Dream: Become Full-Stack Developer
 - ⚡ Fun fact: Make it simple but I'm a complicate person
+![](https://komarev.com/ghpvc/?username=iamverysimp1e&label=Visitors+Count&color=brightgreen)
 
 
 ## 🌐Socials
@@ -15,17 +16,10 @@ I'm Nguyễn Tuệ Nhân from Viet Nam, still a high school student who really e
 
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=iamverysimp1e&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamverysimp1e&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamverysimp1e&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-![](https://komarev.com/ghpvc/?username=iamverysimp1e&label=Visitors+Count&color=brightgreen)
-
-  ## 💰You can help me by Donating
+## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tue.nhan) 
 
