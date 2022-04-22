@@ -1,10 +1,10 @@
 # Hi there 👋, my name is Tue Nhan
-### Junior Python Coder and Programmer
+### Junior CS Student in Viet Nam 🇻🇳
 <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif" width="350" />  <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giph2y.gif" width='450' allign='right' /> 
 
 ## Basic info about me:
 
-I'm Nguyễn Tuệ Nhân from Viet Nam, still a high school student who really enjoy learning programming languages.
+I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high student who really enjoy learning programming languages.
 
 - ☁  Dream: Become Full-Stack Developer
 - ⚡ Fun fact: Make it simple but I'm a complicate person
@@ -16,7 +16,7 @@ I'm Nguyễn Tuệ Nhân from Viet Nam, still a high school student who really e
 
 [![](https://visitcount.itsvg.in/api?id=iamverysimp1e&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## 📝Code Editors
+## 📝Code Editors & IDE
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
