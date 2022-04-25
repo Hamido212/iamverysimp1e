@@ -24,13 +24,13 @@ I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high student who really enjoy
 ## 🌐Socials
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mr_S1mpleman) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/S1mpleIam) 
 
-# 💻Tech Stack
+## 📊GitHub Stats
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamverysimp1e&layout=compact&theme=solarized-dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)  ![](https://github-readme-stats.vercel.app/api?username=iamverysimp1e&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ## 💰You can support me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tue.nhan) 
