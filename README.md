@@ -28,7 +28,7 @@ I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who reall
 ## 📊 My GitHub Stats
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamverysimp1e&layout=compact&theme=solarized-dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)  ![](https://github-readme-stats.vercel.app/api?username=iamverysimp1e&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamverysimp1e&layout=compact&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)  ![](https://github-readme-stats.vercel.app/api?username=iamverysimp1e&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
