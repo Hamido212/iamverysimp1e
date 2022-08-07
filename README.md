@@ -22,6 +22,10 @@ I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who reall
 
 ## 📊 My GitHub Stats
 
+![snake gif](https://github.com/iamverysimp1e/iamverysimp1e/blob/output/github-contribution-grid-snake.svg)
+
+
+
 ![](https://github-readme-stats.vercel.app/api?username=iamverysimp1e&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamverysimp1e&layout=compact&theme=gotham&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
