@@ -1,4 +1,6 @@
 # Hi there 👋, my name is Tue Nhan
+![snake gif](https://github.com/iamverysimp1e/iamverysimp1e/blob/output/github-contribution-grid-snake.svg)
+
 ### Junior CS Student in Viet Nam 🇻🇳
 <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif" width="350" />  <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giph2y.gif" width='400' allign='right' />
 
@@ -21,10 +23,6 @@ I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who reall
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 My GitHub Stats
-
-![snake gif](https://github.com/iamverysimp1e/iamverysimp1e/blob/output/github-contribution-grid-snake.svg)
-
-
 
 ![](https://github-readme-stats.vercel.app/api?username=iamverysimp1e&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
