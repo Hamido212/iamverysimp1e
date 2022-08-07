@@ -8,12 +8,9 @@ I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who reall
 
 - ☁  Dream: Become Full-Stack Developer
 - ⚡ Fun fact: Someone say make it simple but I'm a complicate person
-- 🌱 Currently learning Python 🐍, Machine Learning
+- 🌱 Currently learning Python 🐍, Machine Learning 🤖 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-[![](https://visitcount.itsvg.in/api?id=iamverysimp1e&icon=2&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=iamverysimp1e&style=for-the-badge&color=green)
 
 ## 🌐 How to reach me 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mr_S1mpleman) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/S1mpleIam) 
@@ -25,8 +22,9 @@ I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who reall
 
 ## 📊 My GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=iamverysimp1e&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamverysimp1e&layout=compact&theme=gotham&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)  ![](https://github-readme-stats.vercel.app/api?username=iamverysimp1e&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamverysimp1e&layout=compact&theme=gotham&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👾 My Favorite repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamverysimp1e&repo=Public-Dot-Files)](https://github.com/iamverysimp1e/Public-Dot-Files)
