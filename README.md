@@ -1,5 +1,4 @@
 # Hi there 👋, my name is Tue Nhan
-![snake gif](https://github.com/iamverysimp1e/iamverysimp1e/blob/output/github-contribution-grid-snake.svg)
 
 ### Junior CS Student in Viet Nam 🇻🇳
 <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif" width="350" />  <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giph2y.gif" width='400' allign='right' />
@@ -11,6 +10,7 @@ I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who reall
 - ☁  Dream: Become Full-Stack Developer
 - ⚡ Fun fact: Someone say make it simple but I'm a complicate person
 - 🌱 Currently learning Python 🐍, Machine Learning 🤖 
+![snake gif](https://github.com/iamverysimp1e/iamverysimp1e/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=iamverysimp1e&style=for-the-badge&color=green)
 
