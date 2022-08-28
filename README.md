@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Tue Nhan
+# Hi there 👋, my name is Nhan
 
 ### Junior CS Student from Viet Nam
 <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif" width="350" />  <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giph2y.gif" width='400' allign='right' />
