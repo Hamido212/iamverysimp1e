@@ -12,6 +12,8 @@ I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who reall
 - 🌱 Currently learning Python 🐍, Machine Learning 🤖 
 ![snake gif](https://github.com/iamverysimp1e/iamverysimp1e/blob/output/github-contribution-grid-snake.svg)
 
+# 📊GitHub Stats
+
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=iamverysimp1e&show_icons=true&theme=gotham" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamverysimp1e&theme=gotham&layout=compact" />
