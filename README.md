@@ -8,7 +8,7 @@
 </div>
 
 
-<img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif" width="300" allign='left' />   <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giph2y.gif" width='400' allign='right' />  <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy.gif" width='250' allign='right' /> 
+<img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif" width="300" allign='left' />   <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giph2y.gif" width='400' allign='right' />  <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy.gif" width='200' allign='right' /> 
 
 ## Basic info about me:
 
