@@ -19,7 +19,15 @@ I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who reall
 
 - ☁  Dream: Become Full-Stack Developer
 - ⚡ Fun fact: Someone say make it simple but I'm a complicate person
-- 🌱 Currently learning Python 🐍, Machine Learning 🤖 
+- 🌱 Currently learning Python 🐍, Machine Learning 🤖, JavaScript, Lua
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ![snake gif](https://github.com/iamverysimp1e/iamverysimp1e/blob/output/github-contribution-grid-snake.svg)
 
 # 📊GitHub Stats
