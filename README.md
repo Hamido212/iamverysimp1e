@@ -1,7 +1,14 @@
-# Hi there 👋, my name is Nhan
+<div align="center">
+    <h1>Hi there 👋, my name is Nhan</h1>
+    <h3></h3>
+</div>
 
-### Junior CS Student from Viet Nam
-<img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif" width="350" />  <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giph2y.gif" width='400' allign='right' />
+<div align="center">
+    <h3>Junior CS Student from Viet Nam</h3>
+</div>
+
+
+<img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif" width="300" allign='left' />   <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giph2y.gif" width='400' allign='right' /> 
 
 ## Basic info about me:
 
