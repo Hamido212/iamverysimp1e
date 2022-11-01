@@ -8,7 +8,7 @@
 </div>
 
 
-<img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy.gif" width="300" height="250" allign='left' />   <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giph2y.gif" width='400' height="300" allign='right' />
+<img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy.gif" width="300" height="250" allign='left' />   <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giph2y.gif" width='400' allign='right' />
 
 
 ## Basic info about me:
