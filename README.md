@@ -7,8 +7,7 @@
     <h3>Junior CS Student from Viet Nam</h3>
 </div>
 
-<img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy.gif" width="300" height="250" allign='left' />   <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy3.gif" width = "250" height = "250" allign='right' />  <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy4.gif" width = "275" height = "250" allign='right' />
-
+<img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy.gif" width="300" height="250" allign='left' /> <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy4.gif" width = "280" height = "250" allign='right' /> <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy3.gif" width = "250" height = "250" allign='right' />  
 ## Basic info about me:
 
 I'm Nguyễn Tuệ Nhân from Viet Nam, a high school student who really enjoy learning programming languages.
