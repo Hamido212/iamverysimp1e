@@ -33,8 +33,8 @@ I'm Nguyễn Tuệ Nhân from Viet Nam, a high school student who really enjoy l
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamverysimp1e&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=gotham"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamverysimp1e&layout=compact&line_height=21&hide_border=true&theme=gotham"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamverysimp1e&count_private=true&show_icons=true&include_all_commits=true&line_height=21&theme=noctis_minimus"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamverysimp1e&layout=compact&line_height=21&theme=noctis_minimus"/></a></td>
     </tr>
   </table>
 </div>
@@ -42,16 +42,13 @@ I'm Nguyễn Tuệ Nhân from Viet Nam, a high school student who really enjoy l
 </details>
 </div>
 
-## 🌐 How to reach me 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mr_S1mpleman) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/S1mpleIam) 
+## 👾 My Favorite repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamverysimp1e&repo=Public-Dot-Files&theme=noctis_minimus)](https://github.com/iamverysimp1e/Public-Dot-Files)
 
 ## 📝Code Editors & IDE
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 👾 My Favorite repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamverysimp1e&repo=Public-Dot-Files)](https://github.com/iamverysimp1e/Public-Dot-Files)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
