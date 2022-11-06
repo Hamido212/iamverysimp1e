@@ -7,7 +7,7 @@
     <h3>Junior CS Student from Viet Nam</h3>
 </div>
 
-<img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy.gif" width="300" height="250" allign='left' />   <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy3.gif" width='350' height = '250' allign='right' />
+<img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy.gif" width="350" height="250" allign='left' />   <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy3.gif" width='350' height = '250' allign='right' />
 
 
 ## Basic info about me:
