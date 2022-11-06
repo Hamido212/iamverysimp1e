@@ -7,15 +7,12 @@
     <h3>Junior CS Student from Viet Nam</h3>
 </div>
 
-
-
-
-<img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy.gif" width="300" height="250" allign='left' />   <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giph2y.gif" width='400' height = '250' allign='right' />
+<img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy.gif" width="300" height="250" allign='left' />   <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giph2y.gif" width='400' height = '250' allign='center' />  <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy3.gif" allign='right' />
 
 
 ## Basic info about me:
 
-I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who really enjoy learning programming languages.
+I'm Nguyễn Tuệ Nhân from Viet Nam, a high school student who really enjoy learning programming languages.
 
 - ☁  Dream: Become Full-Stack Developer
 - ⚡ Fun fact: Someone say make it simple but I'm a complicate person
@@ -32,9 +29,17 @@ I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who reall
 
 # 📊GitHub Stats
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=iamverysimp1e&show_icons=true&theme=gotham" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamverysimp1e&theme=gotham&layout=compact" />
+<!-- Github Stats -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamverysimp1e&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=gotham"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamverysimp1e&layout=compact&line_height=21&hide_border=true&theme=gotham"/></a></td>
+    </tr>
+  </table>
+</div>
+
+</details>
 </div>
 
 ## 🌐 How to reach me 
