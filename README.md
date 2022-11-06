@@ -2,12 +2,12 @@
     <h1>Hi there 👋, my name is Nhan</h1>
     <h3></h3>
 </div>
-
+ 
 <div align="center">
     <h3>Junior CS Student from Viet Nam</h3>
 </div>
 
-<img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy.gif" width="350" height="250" allign='left' />   <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy3.gif" width='350' height = '250' allign='right' />
+<img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy.gif" width="350" height="250" allign='left' />   <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy3.gif" allign='right' />
 
 
 ## Basic info about me:
@@ -33,8 +33,8 @@ I'm Nguyễn Tuệ Nhân from Viet Nam, a high school student who really enjoy l
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamverysimp1e&count_private=true&show_icons=true&include_all_commits=true&line_height=21&theme=noctis_minimus"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamverysimp1e&layout=compact&line_height=21&theme=noctis_minimus"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamverysimp1e&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=city_lights"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamverysimp1e&layout=compact&line_height=21&hide_border=true&theme=city_lights"/></a></td>
     </tr>
   </table>
 </div>
@@ -43,7 +43,7 @@ I'm Nguyễn Tuệ Nhân from Viet Nam, a high school student who really enjoy l
 </div>
 
 ## 👾 My Favorite repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamverysimp1e&repo=Public-Dot-Files&theme=noctis_minimus)](https://github.com/iamverysimp1e/Public-Dot-Files)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamverysimp1e&repo=Public-Dot-Files&hide_border=true&theme=city_lights)](https://github.com/iamverysimp1e/Public-Dot-Files)
 
 ## 📝Code Editors & IDE
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
