@@ -12,7 +12,12 @@
 
 I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who really enjoy learning programming languages.
 
-- ☁  Dream: Become Full-Stack Developer and land a job at Big Tech Company
+- ☁  Dream: Become Full-Stack Developer and land a job at a Big Tech Company
+
+![](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+
 - ⚡ Fun fact: Someone say make it simple but I'm a complicate person
 - 🌱 Currently learning Python 🐍, Machine Learning 🤖, JavaScript, Lua
 
