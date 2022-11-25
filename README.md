@@ -10,9 +10,9 @@
 <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy.gif" width="300" height="250" allign='left' /> <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy4.gif" width = "280" height = "250" allign='right' /> <img src="https://github.com/iamverysimp1e/iamverysimp1e/blob/main/giphy3.gif" width = "250" height = "250" allign='right' />  
 ## Basic info about me:
 
-I'm Nguyễn Tuệ Nhân from Viet Nam, a high school student who really enjoy learning programming languages.
+I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who really enjoy learning programming languages.
 
-- ☁  Dream: Become Full-Stack Developer
+- ☁  Dream: Become Full-Stack Developer and land a job at Big Tech Company
 - ⚡ Fun fact: Someone say make it simple but I'm a complicate person
 - 🌱 Currently learning Python 🐍, Machine Learning 🤖, JavaScript, Lua
 
