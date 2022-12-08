@@ -19,13 +19,13 @@ I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who reall
 ![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 
 - ⚡ Fun fact: Someone say make it simple but I'm a complicate person
-- 🌱 Currently learning Python 🐍, Machine Learning 🤖, JavaScript, Lua
+- 🌱 Currently learning Python 🐍, Machine Learning 🤖, Web Developemnt
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![snake gif](https://github.com/iamverysimp1e/iamverysimp1e/blob/output/github-contribution-grid-snake.svg)
@@ -55,11 +55,24 @@ I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who reall
 </div>
 
 ## 👾 My Favorite repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamverysimp1e&repo=Public-Dot-Files&hide_border=true&theme=city_lights)](https://github.com/iamverysimp1e/Public-Dot-Files)
+
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=iamverysimp1e&repo=dots&hide_border=true&theme=city_lights"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/pin/?username=iamverysimp1e&repo=startpage&hide_border=true&theme=city_lights"/></a></td>
+    </tr>
+  </table>
+</div>
+
+</details>
+</div>
+
+
+
 
 ## 📝Code Editors & IDE
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### ✍️Random Dev Quote
