@@ -53,9 +53,3 @@ I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who reall
 
 </details>
 </div>
-
-</blockquote></details>
-
-### ✍️Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
