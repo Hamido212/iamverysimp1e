@@ -30,7 +30,7 @@ I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who reall
 
 ![snake gif](https://github.com/iamverysimp1e/iamverysimp1e/blob/output/github-contribution-grid-snake.svg)
 
-# 📊GitHub Stats
+<details><summary> <h2> 📊GitHub Stats </h2> </summary><blockquote>
 
 <!-- Github Trophy -->
 <div align="center">
@@ -54,10 +54,7 @@ I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳, a high school student who reall
 </details>
 </div>
 
-## 📝Code Editors & IDE
-
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</blockquote></details>
 
 ### ✍️Random Dev Quote
 
