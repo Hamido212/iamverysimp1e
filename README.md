@@ -7,7 +7,7 @@
     <h3>Junior CS Student from Viet Nam 🇻🇳</h3>
 </div>
 
-<img src="https://raw.githubusercontent.com/iamverysimp1e/iamverysimp1e/main/assets/gif1.gif" allign='left' /> 
+<img src="https://raw.githubusercontent.com/iamverysimp1e/iamverysimp1e/main/assets/gif1.gif" allign='left' width="400"/> 
 
 <img src="https://raw.githubusercontent.com/iamverysimp1e/iamverysimp1e/main/assets/giphy.gif" allign='right' width="400"/> 
 
