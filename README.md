@@ -9,7 +9,7 @@
 
 <img src="https://raw.githubusercontent.com/iamverysimp1e/iamverysimp1e/main/assets/gif1.gif" allign='left' /> 
 
-<img src="https://raw.githubusercontent.com/iamverysimp1e/iamverysimp1e/main/assets/giphy.gif" allign='right' /> 
+<img src="https://raw.githubusercontent.com/iamverysimp1e/iamverysimp1e/main/assets/giphy.gif" allign='right' width="400"/> 
 
 ## Basic info about me:
 
