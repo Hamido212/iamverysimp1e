@@ -11,7 +11,7 @@
 
 ## Basic info about me:
 
-I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳 currently living in ![Houston,TX](https://duckduckgo.com/?q=Houston%2CTX&ia=web&iaxm=about&iax=images). A high school student who really enjoy learning programming languages.
+I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳 currently living in [Houston,TX](https://duckduckgo.com/?q=Houston%2CTX&ia=web&iaxm=about&iax=images). A high school student who really enjoy learning programming languages.
 
 > 🌱 Currently learning Python 🐍, Machine Learning 🤖, Web Developemnt 🌐
 
