@@ -4,7 +4,7 @@
 </div>
  
 <div align="center">
-    <h3>Junior CS Student from Viet Nam 🇻🇳</h3>
+    <h3>High School Computer Science Student from Viet Nam 🇻🇳</h3>
 </div>
 
 <img src="https://raw.githubusercontent.com/iamverysimp1e/iamverysimp1e/main/assets/gif1.gif" allign='left' width="440" height="405"/> <img src="https://raw.githubusercontent.com/iamverysimp1e/iamverysimp1e/main/assets/giphy.gif" allign='right' width="400"/> 
