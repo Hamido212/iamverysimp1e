@@ -29,7 +29,7 @@ I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳 currently living in [Houston,TX]
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=iamverysimp1e&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=radical"></a></td>
+      <td><a href="#--------"><img align="center" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=iamverysimp1e&theme=radical&border_radius=10&date_format=j%2Fn%5B%2FY%5D"></a></td>
     </tr>
   </table>
 </div>
