@@ -13,7 +13,7 @@
 
 I'm Nguyễn Tuệ Nhân from Viet Nam 🇻🇳 currently living in [Houston,TX](https://duckduckgo.com/?q=Houston%2CTX&ia=web&iaxm=about&iax=images). A high school student who really enjoy learning programming languages.
 
-> 🌱 Currently learning Python 🐍, Machine Learning 🤖, Web Developemnt 🌐
+> 🌱 Currently learning Python 🐍, Machine Learning 🤖, Web Developement 🌐
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
